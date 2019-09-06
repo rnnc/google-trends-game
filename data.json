@@ -1,0 +1,1108 @@
+{
+  "featuredStoryIds": [],
+  "trendingStoryIds": [
+    "CA_lnk_FQKZNAEwAACNhM_fr",
+    "CA_lnk_wSpW4wAwAACXeM_en",
+    "CA_lnk_Jg2UNAEwAACziM_fr",
+    "CA_lnk_1OaENAEwAABRYM_fr",
+    "CA_lnk_kuqRNAEwAAACbM_fr",
+    "CA_lnk_ObRN4wAwAAB05M_en",
+    "CA_lnk_rPZX4wAwAAD7pM_en",
+    "CA_lnk_Ob9C4wAwAAB77M_en",
+    "CA_lnk_DgKYNAEwAACXhM_fr",
+    "CA_lnk_YwdX4wAwAAA0VM_en",
+    "CA_lnk_ox2XNAEwAAA1mM_fr",
+    "CA_lnk_crGZNAEwAADqNM_fr",
+    "CA_lnk_Xi9Z4wAwAAAHfM_en",
+    "CA_lnk_4rRN4wAwAACv5M_en",
+    "CA_lnk_V1tR4wAwAAAGCM_en",
+    "CA_lnk_vNNT4wAwAADvgM_en",
+    "CA_lnk_g0RZ4wAwAADaFM_en",
+    "CA_lnk_FN1J4wAwAABdjM_en",
+    "CA_lnk_qZZN4wAwAADkxM_en",
+    "CA_lnk_ZRBW4wAwAAAzQM_en",
+    "CA_lnk_2SJU4wAwAACNcM_en",
+    "CA_lnk_Ch1b4wAwAABRTM_en",
+    "CA_lnk_LVxT4wAwAAB-DM_en",
+    "CA_lnk_Z3hb4wAwAAA8KM_en",
+    "CA_lnk_Mc1Z4wAwAABonM_en",
+    "CA_lnk_fiZT4wAwAAAtdM_en",
+    "CA_lnk_k3BV4wAwAADGIM_en",
+    "CA_lnk_ZQda4wAwAAA_VM_en",
+    "CA_lnk_YoJH4wAwAAAl0M_en",
+    "CA_lnk_sCdV4wAwAADldM_en",
+    "CA_lnk_eOUz4wAwAABLtM_en",
+    "CA_lnk_iQGGNAEwAAAOhM_fr",
+    "CA_lnk_Eg064wAwAAAoXM_en",
+    "CA_lnk_f3BT4wAwAAAsIM_en",
+    "CA_lnk_3MRb4wAwAACHlM_en",
+    "CA_lnk_cItU4wAwAAAk2M_en",
+    "CA_lnk_xtlT4wAwAACViM_en",
+    "CA_lnk_piJV4wAwAADzcM_en",
+    "CA_lnk_pvNa4wAwAAD8oM_en",
+    "CA_lnk_Fp5a4wAwAABMzM_en",
+    "CA_lnk_MNNT4wAwAABjgM_en",
+    "CA_lnk_-LNR4wAwAACp4M_en",
+    "CA_lnk_1sNJ4wAwAACfkM_en",
+    "CA_lnk_6v8_4wAwAADVrM_en",
+    "CA_lnk_COBS4wAwAABasM_en",
+    "CA_lnk_zYpZ4wAwAACU2M_en",
+    "CA_lnk_sKdJNAEwAAD4IM_fr",
+    "CA_lnk_2qGINAEwAABTJM_fr",
+    "CA_lnk_hX1Z4wAwAADcLM_en",
+    "CA_lnk_7wxZ4wAwAAC2XM_en",
+    "CA_lnk_1TaANAEwAABUsM_fr",
+    "CA_lnk_aUVa4wAwAAAzFM_en",
+    "CA_lnk_pzRT4wAwAAD0ZM_en",
+    "CA_lnk_ZXhb4wAwAAA-KM_en",
+    "CA_lnk_Pn5X4wAwAABpLM_en",
+    "CA_lnk_LfRU4wAwAAB5pM_en",
+    "CA_lnk_Y1RV4wAwAAA2BM_en",
+    "CA_lnk_q_5O4wAwAADlrM_en",
+    "CA_lnk_WP1V4wAwAAANrM_en",
+    "CA_lnk_hL5Y4wAwAADc7M_en",
+    "CA_lnk_pS1a4wAwAAD_fM_en",
+    "CA_lnk_2eQq4wAwAADztM_en",
+    "CA_lnk_uh5M4wAwAAD2TM_en",
+    "CA_lnk_GbZV4wAwAABM5M_en",
+    "CA_lnk_vkAk4wAwAACaEM_en",
+    "CA_lnk_L5lY4wAwAAB3yM_en",
+    "CA_lnk_xB-bNAEwAABemM_fr",
+    "CA_lnk_JcVT4wAwAAB2lM_en",
+    "CA_lnk_RNtU4wAwAAAQiM_en",
+    "CA_lnk_lY1V4wAwAADA3M_en",
+    "CA_lnk_T5Ba4wAwAAAVwM_en",
+    "CA_lnk_nlxT4wAwAADNDM_en",
+    "CA_lnk_0UVN4wAwAACcFM_en",
+    "CA_lnk_eylT4wAwAAAoeM_en",
+    "CA_lnk_Pe1S4wAwAABvvM_en",
+    "CA_lnk_FKtV4wAwAABB-M_en",
+    "CA_lnk_ws1Y4wAwAACanM_en",
+    "CA_lnk_MX1W4wAwAABnLM_en",
+    "CA_lnk_aPpW4wAwAAA-qM_en",
+    "CA_lnk_qg1K4wAwAADgXM_en",
+    "CA_lnk_8z9U4wAwAACnbM_en",
+    "CA_lnk_iQhO4wAwAADHWM_en",
+    "CA_lnk_d4OSNAEwAADkBM_fr",
+    "CA_lnk_U0pX4wAwAAAEGM_en",
+    "CA_lnk_al9Z4wAwAAAzDM_en",
+    "CA_lnk__cRb4wAwAACmlM_en",
+    "CA_lnk_u9lT4wAwAADoiM_en",
+    "CA_lnk_tc5T4wAwAADmnM_en",
+    "CA_lnk_V5pR4wAwAAAGyM_en",
+    "CA_lnk_HCNU4wAwAABIcM_en",
+    "CA_lnk_991R4wAwAACmjM_en",
+    "CA_lnk_LhtR4wAwAAB_SM_en",
+    "CA_lnk_vAc34wAwAACLVM_en",
+    "CA_lnk_dz5T4wAwAAAkbM_en",
+    "CA_lnk_Ao1V4wAwAABX3M_en",
+    "CA_lnk_5Y1X4wAwAACy3M_en",
+    "CA_lnk_c0tX4wAwAAAkGM_en",
+    "CA_lnk_9Y9b4wAwAACu3M_en",
+    "CA_lnk_PjZV4wAwAABrZM_en",
+    "CA_lnk_1D1T4wAwAACHbM_en",
+    "CA_lnk_r3xV4wAwAAD6LM_en",
+    "CA_lnk_ITKKNAEwAACqtM_fr",
+    "CA_lnk_LJo94wAwAAARyM_en",
+    "CA_lnk__uJa4wAwAACksM_en",
+    "CA_lnk_aZhU4wAwAAA9yM_en",
+    "CA_lnk_huNZ4wAwAADfsM_en",
+    "CA_lnk_oJBV4wAwAAD1wM_en",
+    "CA_lnk_UNdS4wAwAAAChM_en",
+    "CA_lnk_6KVU4wAwAAC89M_en",
+    "CA_lnk_SPBW4wAwAAAeoM_en",
+    "CA_lnk_4ptb4wAwAAC5yM_en",
+    "CA_lnk_kJhU4wAwAADEyM_en",
+    "CA_lnk_vWhb4wAwAADmOM_en",
+    "CA_lnk_slFX4wAwAADlAM_en",
+    "CA_lnk_KpxQ4wAwAAB6zM_en",
+    "CA_lnk_EwVU4wAwAABHVM_en",
+    "CA_lnk_uCNR4wAwAADpcM_en",
+    "CA_lnk_cQhF4wAwAAA0WM_en",
+    "CA_lnk_1KFS4wAwAACG8M_en",
+    "CA_lnk_RLFO4wAwAAAK4M_en",
+    "CA_lnk_R-k-4wAwAAB5uM_en",
+    "CA_lnk_xhRX4wAwAACRRM_en",
+    "CA_lnk_w99S4wAwAACRjM_en",
+    "CA_lnk_HORU4wAwAABItM_en",
+    "CA_lnk_U-xU4wAwAAAHvM_en",
+    "CA_lnk_EHFb4wAwAABLIM_en",
+    "CA_lnk_1LmTNAEwAABGPM_fr",
+    "CA_lnk_ieBD4wAwAADKsM_en",
+    "CA_lnk_pJ5K4wAwAADuzM_en",
+    "CA_lnk_jIpX4wAwAADb2M_en",
+    "CA_lnk_rbFV4wAwAAD44M_en",
+    "CA_lnk_zylR4wAwAACeeM_en",
+    "CA_lnk_DnJX4wAwAABZIM_en",
+    "CA_lnk_ouda4wAwAAD4tM_en",
+    "CA_lnk_srBY4wAwAADq4M_en",
+    "CA_lnk_MnlX4wAwAABlKM_en",
+    "CA_lnk_E_BQ4wAwAABDoM_en",
+    "CA_lnk_cp5U4wAwAAAmzM_en",
+    "CA_lnk_LjBT4wAwAAB9YM_en",
+    "CA_lnk_JwBA4wAwAABnUM_en",
+    "CA_lnk_iPRT4wAwAADbpM_en",
+    "CA_lnk_Htpa4wAwAABEiM_en",
+    "CA_lnk_ACZW4wAwAABWdM_en",
+    "CA_lnk_t-NZ4wAwAADusM_en",
+    "CA_lnk_eWlR4wAwAAAoOM_en",
+    "CA_lnk_mqBX4wAwAADN8M_en",
+    "CA_lnk_J8lY4wAwAAB_mM_en",
+    "CA_lnk_NMJR4wAwAABlkM_en",
+    "CA_lnk_ZRA74wAwAABeQM_en",
+    "CA_lnk_xTpa4wAwAACfaM_en",
+    "CA_lnk_mKZT4wAwAADL9M_en",
+    "CA_lnk_3oxS4wAwAACM3M_en",
+    "CA_lnk_4hlR4wAwAACzSM_en",
+    "CA_lnk_JrFa4wAwAAB84M_en",
+    "CA_lnk_WwFX4wAwAAAMUM_en",
+    "CA_lnk_-nxS4wAwAACoLM_en",
+    "CA_lnk_yM5P4wAwAACHnM_en",
+    "CA_lnk_HEBY4wAwAABEEM_en",
+    "CA_lnk_g0Va4wAwAADZFM_en",
+    "CA_lnk_V7AsNAEwAAB6NM_fr",
+    "CA_lnk_wd9P4wAwAACOjM_en",
+    "CA_lnk_NJhU4wAwAABgyM_en",
+    "CA_lnk_zBFZ4wAwAACVQM_en",
+    "CA_lnk_4VBU4wAwAAC1AM_en",
+    "CA_lnk_wC1a4wAwAACafM_en",
+    "CA_lnk_oh9W4wAwAAD0TM_en",
+    "CA_lnk_VHlX4wAwAAADKM_en",
+    "CA_lnk_EP5S4wAwAABCrM_en",
+    "CA_lnk_z8lZ4wAwAACWmM_en",
+    "CA_lnk_iNJW4wAwAADegM_en",
+    "CA_lnk_VnZU4wAwAAACJM_en",
+    "CA_lnk_XUVU4wAwAAAJFM_en",
+    "CA_lnk_1XxY4wAwAACNLM_en",
+    "CA_lnk_LZZY4wAwAAB1xM_en",
+    "CA_lnk_AuFW4wAwAABUsM_en",
+    "CA_lnk_D3hT4wAwAABcKM_en",
+    "CA_lnk_MK9Y4wAwAABo_M_en",
+    "CA_lnk_aPhY4wAwAAAwqM_en",
+    "CA_lnk_UOxT4wAwAAADvM_en",
+    "CA_lnk_HzVI4wAwAABXZM_en",
+    "CA_lnk_nHuSNAEwAAAP_M_fr",
+    "CA_lnk_taR5NAEwAADNIM_fr",
+    "CA_lnk_dmhb4wAwAAAtOM_en",
+    "CA_lnk_nQtb4wAwAADGWM_en",
+    "CA_lnk_s0VS4wAwAADhFM_en",
+    "CA_lnk_pedM4wAwAADptM_en",
+    "CA_lnk_QeNZ4wAwAAAYsM_en",
+    "CA_lnk_ggdY4wAwAADaVM_en",
+    "CA_lnk_vo9b4wAwAADl3M_en",
+    "CA_lnk_7eFW4wAwAAC7sM_en",
+    "CA_lnk_sPBR4wAwAADhoM_en",
+    "CA_lnk_a49b4wAwAAAw3M_en",
+    "CA_lnk_8tJQ4wAwAACigM_en",
+    "CA_lnk_xPtZ4wAwAACdqM_en",
+    "CA_lnk_S61G4wAwAAAN_M_en",
+    "CA_lnk_fTJR4wAwAAAsYM_en",
+    "CA_lnk_FzpU4wAwAABDaM_en",
+    "CA_lnk__U5J4wAwAAC0HM_en",
+    "CA_lnk_E5FU4wAwAABHwM_en",
+    "CA_lnk_bgdyNAEwAAAdgM_fr",
+    "CA_lnk_9xNa4wAwAACtQM_en",
+    "CA_lnk_8z1R4wAwAACibM_en",
+    "CA_lnk_rc9T4wAwAAD-nM_en",
+    "CA_lnk_t7JU4wAwAADj4M_en",
+    "CA_lnk_lfJxNAEwAADldM_fr",
+    "CA_lnk_Y_Yu4wAwAABNpM_en",
+    "CA_lnk_cM5J4wAwAAA5nM_en",
+    "CA_lnk_AGVF4wAwAABFNM_en",
+    "CA_lnk_WcNY4wAwAAABkM_en",
+    "CA_lnk_mTlH4wAwAADeaM_en",
+    "CA_lnk_txtO4wAwAAD5SM_en",
+    "CA_lnk_R1JR4wAwAAAWAM_en",
+    "CA_lnk_j652NAEwAAD4KM_fr",
+    "CA_lnk_41FU4wAwAAC3AM_en",
+    "CA_lnk_FrxX4wAwAABB7M_en",
+    "CA_lnk_PIxN4wAwAABx3M_en",
+    "CA_lnk_dT1Z4wAwAAAsbM_en",
+    "CA_lnk_Zv9Z4wAwAAA_rM_en",
+    "CA_lnk_IslS4wAwAABwmM_en",
+    "CA_lnk_nDZR4wAwAADNZM_en",
+    "CA_lnk_dJlV4wAwAAAhyM_en",
+    "CA_lnk_43BS4wAwAACxIM_en",
+    "CA_lnk_cFBW4wAwAAAmAM_en",
+    "CA_lnk_B7dM4wAwAABL5M_en",
+    "CA_lnk_tzQ84wAwAACLZM_en",
+    "CA_lnk_GStS4wAwAABLeM_en",
+    "CA_lnk_MztT4wAwAABgaM_en",
+    "CA_lnk_iX1zNAEwAAD7-M_fr",
+    "CA_lnk_u5FJ4wAwAADywM_en",
+    "CA_lnk_949b4wAwAACs3M_en",
+    "CA_lnk_ZrdV4wAwAAAz5M_en",
+    "CA_lnk_rdRX4wAwAAD6hM_en",
+    "CA_lnk_fXBb4wAwAAAmIM_en",
+    "CA_lnk_oaRR4wAwAADw9M_en",
+    "CA_lnk_XRJH4wAwAAAaQM_en",
+    "CA_lnk_2vNT4wAwAACJoM_en",
+    "CA_lnk_nO9V4wAwAADJvM_en",
+    "CA_lnk_3fNU4wAwAACJoM_en",
+    "CA_lnk_5UdT4wAwAAC2FM_en",
+    "CA_lnk_E2NV4wAwAABGMM_en",
+    "CA_lnk_MKxV4wAwAABl_M_en",
+    "CA_lnk_iJpR4wAwAADZyM_en",
+    "CA_lnk_GiBX4wAwAABNcM_en",
+    "CA_lnk_JrxX4wAwAABx7M_en",
+    "CA_lnk_1uda4wAwAACMtM_en",
+    "CA_lnk_TXJT4wAwAAAeIM_en",
+    "CA_lnk_FGRS4wAwAABGNM_en",
+    "CA_lnk_HsxW4wAwAABInM_en",
+    "CA_lnk_6cJa4wAwAACzkM_en",
+    "CA_lnk_JAeONAEwAACrgM_fr",
+    "CA_lnk_pux_NAEwAADYaM_fr",
+    "CA_lnk_y49b4wAwAACQ3M_en",
+    "CA_lnk_wX0_4wAwAAD-LM_en",
+    "CA_lnk_-VFb4wAwAACiAM_en",
+    "CA_lnk_5H1Q4wAwAAC0LM_en",
+    "CA_lnk_ndBT4wAwAADOgM_en",
+    "CA_lnk_aLZb4wAwAAAz5M_en",
+    "CA_lnk_3jpb4wAwAACFaM_en",
+    "CA_lnk_ZJBD4wAwAAAnwM_en",
+    "CA_lnk_nnBb4wAwAADFIM_en",
+    "CA_lnk_QncrNAEwAABo8M_fr",
+    "CA_lnk_GxJF4wAwAABeQM_en",
+    "CA_lnk_n6pL4wAwAADU-M_en",
+    "CA_lnk_O-tU4wAwAABvuM_en",
+    "CA_lnk_voJS4wAwAADs0M_en",
+    "CA_lnk_vlNT4wAwAADtAM_en",
+    "CA_lnk_Q85U4wAwAAAXnM_en",
+    "CA_lnk_M7JU4wAwAABn4M_en",
+    "CA_lnk_W_5V4wAwAAAOrM_en",
+    "CA_lnk_cslS4wAwAAAgmM_en",
+    "CA_lnk_ab1W4wAwAAA_7M_en",
+    "CA_lnk_NElU4wAwAABgGM_en",
+    "CA_lnk_BxVT4wAwAABURM_en",
+    "CA_lnk_DIZR4wAwAABd1M_en",
+    "CA_lnk_WphG4wAwAAAcyM_en",
+    "CA_lnk_zctV4wAwAACYmM_en",
+    "CA_lnk_DfBQ4wAwAABdoM_en",
+    "CA_lnk_m7RV4wAwAADO5M_en",
+    "CA_lnk_XVRV4wAwAAAIBM_en",
+    "CA_lnk_iA474wAwAACzXM_en",
+    "CA_lnk_5rxY4wAwAAC-7M_en",
+    "CA_lnk_fAdY4wAwAAAkVM_en",
+    "CA_lnk_KdhD4wAwAABqiM_en",
+    "CA_lnk_Ss9K4wAwAAAAnM_en",
+    "CA_lnk_uXFZ4wAwAADgIM_en",
+    "CA_lnk_w6RW4wAwAACV9M_en",
+    "CA_lnk_FI5U4wAwAABA3M_en",
+    "CA_lnk_T2tT4wAwAAAcOM_en",
+    "CA_lnk_8ADMMwEwAAA9gM_fr",
+    "CA_lnk_M7ha4wAwAABp6M_en",
+    "CA_lnk_8LdV4wAwAACl5M_en",
+    "CA_lnk_FwxD4wAwAABUXM_en",
+    "CA_lnk_3PxM4wAwAACQrM_en",
+    "CA_lnk_VtZZ4wAwAAAPhM_en",
+    "CA_lnk_4nBV4wAwAAC3IM_en",
+    "CA_lnk_SGWCNAEwAADL4M_fr",
+    "CA_lnk_XQtU4wAwAAAJWM_en",
+    "CA_lnk_tK1N4wAwAAD5_M_en",
+    "CA_lnk_dNRX4wAwAAAjhM_en",
+    "CA_lnk_Ed1V4wAwAABEjM_en"
+  ],
+  "storySummaries": {
+    "featuredStories": [],
+    "trendingStories": [
+      {
+        "image": {
+          "newsUrl": "https://www.tvanouvelles.ca/2019/09/03/deces-du-journaliste-pierre-nadeau",
+          "source": "TVA Nouvelles",
+          "imgUrl": "//t1.gstatic.com/images?q=tbn:ANd9GcTT3jNGZ1RMmtx-attDklq1jvf-NXp6qY7Hm54AoTK_3xVgaWs2-0aC-WKsnlQGemuuxEBdD5_J2R4"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_FQKZNAEwAACNhM_fr&category=all&geo=CA#CA_lnk_FQKZNAEwAACNhM_fr",
+        "articles": [
+          {
+            "articleTitle": "Décès du journaliste Pierre Nadeau",
+            "url": "https://www.tvanouvelles.ca/2019/09/03/deces-du-journaliste-pierre-nadeau",
+            "source": "TVA Nouvelles",
+            "time": "2 hours ago",
+            "snippet": "Une grande personnalité de l&#39;information vient de s&#39;éteindre. L&#39;animateur, journaliste et producteur Pierre Nadeau est décédé mardi des suites d&#39;une longue maladie. Il avait 82 ans. Sa fille, la chef d&#39;antenne de Radio-Canada Pascale Nadeau, a annoncé la&nbsp;..."
+          },
+          {
+            "articleTitle": "Le grand journaliste Pierre Nadeau s&#39;éteint à 82 ans",
+            "url": "https://www.ledevoir.com/societe/561832/le-journaliste-pierre-nadeau-est-decede",
+            "source": "Le Devoir",
+            "time": "1 hour ago",
+            "snippet": "Le célèbre journaliste Pierre Nadeau est décédé ce mardi 3 septembre à l&#39;âge de 82 ans. Sa fille, la journaliste et chef d&#39;antenne de Radio-Canada Pascale Nadeau, a confirmé la nouvelle dans un message publié sur son compte Twitter. « Le cœur brisé, je&nbsp;..."
+          },
+          {
+            "articleTitle": "Le journaliste Pierre Nadeau s&#39;éteint à l&#39;âge de 82 ans",
+            "url": "https://www.lenouvelliste.ca/actualites/le-fil-groupe-capitales-medias/le-journaliste-pierre-nadeau-seteint-a-lage-de-82-ans-16d8c6db64c964d4ea113c79dfbc8f78",
+            "source": "Le Nouvelliste - Groupe Capitales Médias",
+            "time": "12 minutes ago",
+            "snippet": "Le célèbre journaliste Pierre Nadeau est décédé ce mardi, 3 septembre, à l&#39;âge de 82 ans."
+          },
+          {
+            "articleTitle": "Pascale Nadeau annonce avec émotion le décès de son père, Pierre Nadeau",
+            "url": "https://hollywoodpq.com/pascale-nadeau-annonce-avec-emotion-le-deces-de-son-pere-pierre-nadeau/",
+            "source": "HollywoodPQ",
+            "time": "1 hour ago",
+            "snippet": "C&#39;est avec beaucoup d&#39;émotion que Pascale Nadeau a annoncé sur Twitter ce mardi après-midi le décès de son père, le journaliste Pierre Nadeau. Il avait 82 ans."
+          },
+          {
+            "articleTitle": "Le journaliste Pierre Nadeau, le père de Pascale Nadeau, est décédé",
+            "url": "https://www.envedette.ca/potins-stars-quebec/media/le-journaliste-pierre-nadeau-le-pere-de-pascale-nadeau-est-decede-1.9906880",
+            "source": "En vedette",
+            "time": "29 minutes ago",
+            "snippet": "Triste nouvelle dans l&#39;univers des médias, aujourd&#39;hui : le journaliste Pierre Nadeau est décédé. Il avait 82 ans. Sa fille, la chef d&#39;antenne Pascale Nadeau, a annoncé son départ sur Twitter cet après-midi : « Le cœur brisé, je vous annonce que ce matin, tout&nbsp;..."
+          },
+          {
+            "articleTitle": "Les pairs de Pierre Nadeau rendent hommage à un journaliste de la trempe des géants",
+            "url": "https://ici.radio-canada.ca/nouvelle/1285283/mort-reactions-television-journaliste-exceptionnel-medias",
+            "source": "ICI.Radio-Canada.ca",
+            "time": "22 minutes ago",
+            "snippet": "Les journalistes qui ont côtoyé Pierre Nadeau, décédé mardi, rendent hommage à un communicateur exceptionnel et au tempérament intense, maître de l&#39;entrevue coup de poing."
+          },
+          {
+            "articleTitle": "Pierre Nadeau a «ouvert la porte du Québec» à l&#39;international",
+            "url": "https://www.tvanouvelles.ca/2019/09/03/pierre-nadeau-a-ouvert-la-porte-du-quebec-a-linternational",
+            "source": "TVA Nouvelles",
+            "time": "41 minutes ago",
+            "snippet": "Le Québec a perdu mardi l&#39;un des monuments de son journalisme avec le décès de Pierre Nadeau. Les participants de l&#39;émission «La Joute» ont tenu à rendre hommage à ce géant de la profession. À LIRE ÉGALEMENT. Décès du journaliste Pierre Nadeau."
+          },
+          {
+            "articleTitle": "Le reporter Pierre Nadeau est décédé à 82 ans",
+            "url": "https://quebec.huffingtonpost.ca/entry/deces-pierre-nadeau_qc_5d6eb860e4b09bbc9ef5cb8a?utm_hp_ref=qc-divertissement",
+            "source": "HuffPost Quebec",
+            "time": "1 hour ago",
+            "snippet": "Il souffrait de la maladie de Parkinson depuis plusieurs années."
+          },
+          {
+            "articleTitle": "Pierre Nadeau s&#39;éteint à 82 ans",
+            "url": "https://www.985fm.ca/nouvelles/showbiz/246938/pierre-nadeau-seteint-a-82-ans",
+            "source": "98,5 fm",
+            "time": "1 hour ago",
+            "snippet": "L&#39;ancien journaliste et animateur d&#39;émissions d&#39;affaires publiques de Radio-Canada, Pierre Nadeau, est décédé mardi matin, des suites de la maladie de Parkinson. C&#39;est sa fille, la cheffe d&#39;antenne du Téléjournal de Radio-Canada le week-end, Pascale&nbsp;..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/121yn651 /m/05b6123"
+        ],
+        "id": "CA_lnk_FQKZNAEwAACNhM_fr",
+        "title": "Pierre Nadeau, Pascale Nadeau",
+        "entityNames": [
+          "Pierre Nadeau",
+          "Pascale Nadeau"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://globalnews.ca/news/5849885/ariana-grande-forever-21-lawsuit/",
+          "source": "Globalnews.ca",
+          "imgUrl": "//t2.gstatic.com/images?q=tbn:ANd9GcS2Ua1NfLouZvsLxAtXlc3NLmU0NEMdfroTsHabaRFQ8dnarctnk38wB420DtQGyJ-dwMPzhbNGKaQ"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_wSpW4wAwAACXeM_en&category=all&geo=CA#CA_lnk_wSpW4wAwAACXeM_en",
+        "articles": [
+          {
+            "articleTitle": "Ariana Grande files US copyright lawsuit against Forever 21",
+            "url": "https://globalnews.ca/news/5849885/ariana-grande-forever-21-lawsuit/",
+            "source": "Globalnews.ca",
+            "time": "1 hour ago",
+            "snippet": "The 25-year-old singer has sued the clothing company for allegedly using her name, likeness and music without her permission."
+          },
+          {
+            "articleTitle": "Ariana Grande Sues Forever 21 For $10 Million",
+            "url": "https://www.huffpost.com/entry/ariana-grande-lawsuit-forever-21_n_5d6eb0a6e4b011080455b6e1",
+            "source": "HuffPost",
+            "time": "1 hour ago",
+            "snippet": "The singer is suing the retail chain for using imagery from her album and song “Thank U Next&quot; in order to “create the false perception of her endorsement.”"
+          },
+          {
+            "articleTitle": "Ariana Grande suing Forever 21 for $10 million for using look-alike model and copying music video",
+            "url": "https://www.cbsnews.com/news/forever-21-ariana-grande-suing-10-million-lawsuit-using-look-alike-model-and-copying-7-rings-music-video/",
+            "source": "CBS News",
+            "time": "1 hour ago",
+            "snippet": "Ariana Grande is one of the most popular singers in the world, and her style inspires millions of followers on social media — but in this case imitation is not a form of flattery. Grande is suing the clothing chain Forever 21 and its spin-off cosmetics brand, Riley&nbsp;..."
+          },
+          {
+            "articleTitle": "Ariana Grande sues Forever 21 over failed deal and lookalike model",
+            "url": "https://www.latimes.com/entertainment-arts/music/story/2019-09-03/ariana-grande-forever-21-lawsuit",
+            "source": "Los Angeles Times",
+            "time": "2 hours ago",
+            "snippet": "Ariana Grande has filed a civil lawsuit against fast-fashion retailer Forever 21 after declining an endorsement deal with the beleaguered company. She claims it went ahead and hired a Grande lookalike model and used other copyrighted material in a social&nbsp;..."
+          },
+          {
+            "articleTitle": "Ariana Grande says Forever 21 &#39;stole&#39; name in lawsuit",
+            "url": "https://www.bbc.com/news/business-49572758",
+            "source": "BBC News",
+            "time": "2 hours ago",
+            "snippet": "Singer Ariana Grande is asking for $10m (£8.3m) in damages from Forever 21, saying the retailer &quot;stole her name&quot; to promote its clothing and beauty products. She said the firm published at least 30 &quot;unauthorised&quot; images and videos that suggested she had&nbsp;..."
+          },
+          {
+            "articleTitle": "Ariana Grande accuses Forever 21 of using lookalike model to promote brand in $15.7 million lawsuit",
+            "url": "https://www.stuff.co.nz/entertainment/music/115515034/ariana-grande-accuses-forever-21-of-using-lookalike-model-to-promote-brand-in-157-million-lawsuit",
+            "source": "Stuff.co.nz",
+            "time": "1 hour ago",
+            "snippet": "That&#39;s a Grande lawsuit. Pop star Ariana Grande asserts in a new US $10 million (NZ$ 15.799m) lawsuit against Forever 21 and beauty retailer Riley Rose that the companies used her name, likeness and &quot;other intellectual property&quot; without her permission to&nbsp;..."
+          },
+          {
+            "articleTitle": "Ariana Grande is suing Forever 21 for $10 million over &#39;look-alike&#39; ad campaign",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2019/09/03/ariana-grande-sues-forever-21-10-million-over-look-alike-campaign/2197997001/",
+            "source": "USA TODAY",
+            "time": "3 hours ago",
+            "snippet": "Ariana Grande has a &quot;Problem&quot; with Forever 21. According to court documents obtained by USA TODAY, the singer is suing the retail company for $10 million over an ad campaign she says uses her likeness. The lawsuit, filed Monday in California, claims the&nbsp;..."
+          },
+          {
+            "articleTitle": "Ariana Grande sues Forever 21, saying it &#39;stole&#39; her image by using a look-alike in social media campaign",
+            "url": "https://www.cnbc.com/2019/09/03/ariana-grande-sues-forever-21-for-allegedly-using-a-look-alike-model.html",
+            "source": "CNBC",
+            "time": "2 hours ago",
+            "snippet": "Ariana Grande is claiming at least $10 million in damages from Forever 21 after it allegedly used a look-alike model to promote its products. The apparel retailer was hoping to strike a social media endorsement deal with Grande earlier in the year, around the&nbsp;..."
+          },
+          {
+            "articleTitle": "Ariana Grande Sues Forever 21 for &#39;Stealing Her Likeness&#39;",
+            "url": "https://www.radio.com/music/pop/ariana-grande-sues-forever-21-for-stealing-her-likeness",
+            "source": "RADIO.COM",
+            "time": "1 hour ago",
+            "snippet": "Ariana Grande is seeking $10 million in damages in a lawsuit against Forever 21. The pop star is accusing the fashion retailer of using a way-to-similar lookalike model for a social media campaign. According to the complaint filed in California federal court,&nbsp;..."
+          },
+          {
+            "articleTitle": "Ariana Grande Files $10 Million Lawsuit Against Forever 21 For Using Look-Alike Model In Ad Campaign",
+            "url": "https://www.forbes.com/sites/rachelsandler/2019/09/03/ariana-grande-files-10-million-lawsuit-against-forever-21-for-using-look-alike-model-in-ad-campaign/",
+            "source": "Forbes",
+            "time": "2 hours ago",
+            "snippet": "Topline: Pop star Ariana Grande is suing Forever 21 for allegedly stealing her image after she turned down an endorsement deal with the company, which in one case hired a model that looks like her to promote the retailer&#39;s clothing and accessories on social&nbsp;..."
+          }
+        ],
+        "idsForDedup": [
+          "/m/08s_k4 /m/09gkdy4"
+        ],
+        "id": "CA_lnk_wSpW4wAwAACXeM_en",
+        "title": "Ariana Grande, Forever 21",
+        "entityNames": [
+          "Ariana Grande",
+          "Forever 21"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.huffpostmaghreb.com/entry/justin-trudeau-prouve-quon-peut-encore-rire-de-religion-avec-hasan-minhaj-pour-netflix_mg_5d6e4424e4b0cdfe05756e0e",
+          "source": "Al HuffPost",
+          "imgUrl": "//t1.gstatic.com/images?q=tbn:ANd9GcRfHbkBCYZVh8a1tEh2NH-FyuiGv7HpOV2qDJO4lpxMdUWuLNRMxpd9T2VMlcJTxkZLtW5Ir60EWoU"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_Jg2UNAEwAACziM_fr&category=all&geo=CA#CA_lnk_Jg2UNAEwAACziM_fr",
+        "articles": [
+          {
+            "articleTitle": "Justin Trudeau prouve qu&#39;on peut encore rire de religion avec Hasan Minhaj pour Netflix",
+            "url": "https://www.huffpostmaghreb.com/entry/justin-trudeau-prouve-quon-peut-encore-rire-de-religion-avec-hasan-minhaj-pour-netflix_mg_5d6e4424e4b0cdfe05756e0e",
+            "source": "Al HuffPost",
+            "time": "6 hours ago",
+            "snippet": "HUMOUR - Pour le cinquième épisode de la nouvelle saison de son talk-show hebdomadaire “Patriot Act”, lancé en octobre dernier sur Netflix, le comédien américain Hasan Minhaj a reçu un invité de marque. Connu pour prôner la tolérance et l&#39;acceptation&nbsp;..."
+          },
+          {
+            "articleTitle": "Hasan Minhaj expose les contradictions de Justin Trudeau",
+            "url": "https://journalmetro.com/culture/2371172/hasan-minhaj-expose-les-contradictions-de-justin-trudeau/",
+            "source": "Métro Montréal",
+            "time": "3 hours ago",
+            "snippet": "C&#39;est toujours fascinant de voir le regard de l&#39;autre sur nous avec la distance et les filtres. Un bel exemple est le dernier épisode de Patriot Act de l&#39;humoriste américain Hasan Minhaj. La série épisodique diffusée sur Netflix depuis un peu moins d&#39;un an est un&nbsp;..."
+          }
+        ],
+        "idsForDedup": [
+          "/m/02b5jh /m/0dl580r"
+        ],
+        "id": "CA_lnk_Jg2UNAEwAACziM_fr",
+        "title": "Hasan Minhaj, Justin Trudeau",
+        "entityNames": [
+          "Hasan Minhaj",
+          "Justin Trudeau"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.lenouvelliste.ca/actualites/le-fil-groupe-capitales-medias/suivre-son-autobus-scolaire-en-temps-reel-avec-une-application-de-wyhn-3cc9dfeb0e1a80026dbf10a7779bfe89",
+          "source": "Le Nouvelliste - Groupe Capitales Médias",
+          "imgUrl": "//t2.gstatic.com/images?q=tbn:ANd9GcTlaxWSPPtU2o5IwNpw0JlpEtnPxOrOsPb9DU6PnPULGtZGPT-ypID1kCjmf8EuAI4IeY65GN1rZd8"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_1OaENAEwAABRYM_fr&category=all&geo=CA#CA_lnk_1OaENAEwAABRYM_fr",
+        "articles": [
+          {
+            "articleTitle": "Suivre son autobus scolaire en temps réel avec une application de WYHN",
+            "url": "https://www.lenouvelliste.ca/actualites/le-fil-groupe-capitales-medias/suivre-son-autobus-scolaire-en-temps-reel-avec-une-application-de-wyhn-3cc9dfeb0e1a80026dbf10a7779bfe89",
+            "source": "Le Nouvelliste - Groupe Capitales Médias",
+            "time": "19 hours ago",
+            "snippet": "Aimeriez-vous pouvoir suivre en direct les déplacements de l&#39;autobus scolaire de votre enfant ? Un entrepreneur de l&#39;Outaouais a développé une application qui rend ceci possible."
+          }
+        ],
+        "idsForDedup": [
+          "/m/02yvhj /m/06zdj"
+        ],
+        "id": "CA_lnk_1OaENAEwAABRYM_fr",
+        "title": "School, School bus",
+        "entityNames": [
+          "School",
+          "School bus"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://ici.radio-canada.ca/nouvelle/1284937/candidats-npd-nouveau-brunswick-parti-vert",
+          "source": "ICI.Radio-Canada.ca",
+          "imgUrl": "//t1.gstatic.com/images?q=tbn:ANd9GcSkL_BUikutRDlvobZedm1PKP_OAk5Ed3q7Nvdpsr7TarkgOhNxiErHT3mJyMaM_MXbFBjTWDchj7k"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_DgKYNAEwAACXhM_fr&category=all&geo=CA#CA_lnk_DgKYNAEwAACXhM_fr",
+        "articles": [
+          {
+            "articleTitle": "14 candidats néo-démocrates du Nouveau-Brunswick se rallient au Parti vert",
+            "url": "https://ici.radio-canada.ca/nouvelle/1284937/candidats-npd-nouveau-brunswick-parti-vert",
+            "source": "ICI.Radio-Canada.ca",
+            "time": "3 hours ago",
+            "snippet": "Près du tiers de tous les candidats provinciaux du NPD quittent la formation politique."
+          },
+          {
+            "articleTitle": "14 Néo-démocrates rejoignent les rangs des Verts du NB",
+            "url": "https://www.acadienouvelle.com/actualites/2019/09/03/14-neo-democrates-rejoignent-les-rangs-des-verts-du-n-b/",
+            "source": "Acadie Nouvelle",
+            "time": "2 hours ago",
+            "snippet": "Le parti vert s&#39;accapare plusieurs politiciens de la gauche."
+          },
+          {
+            "articleTitle": "Quatorze néo-démocrates du Nouveau-Brunswick se tournent vers les verts",
+            "url": "https://www.journaldemontreal.com/2019/09/03/quatorze-neo-democrates-du-nouveau-brunswick-se-tournent-vers-les-verts",
+            "source": "Le Journal de Montréal",
+            "time": "47 minutes ago",
+            "snippet": "OTTAWA – Quatorze ex-candidats néo-démocrates provinciaux du Nouveau-Brunswick tournent le dos à leur formation politique pour appuyer les Verts, tant au niveau provincial que fédéral. Ce revirement de situation, rapporté par plusieurs médias, survient&nbsp;..."
+          }
+        ],
+        "idsForDedup": [
+          "/m/01q1bd /m/059s8",
+          "/m/01q1bd /m/0d060g",
+          "/m/01q1bd /m/0f9b7",
+          "/m/059s8 /m/0d060g",
+          "/m/059s8 /m/0f9b7",
+          "/m/0d060g /m/0f9b7"
+        ],
+        "id": "CA_lnk_DgKYNAEwAACXhM_fr",
+        "title": "New Brunswick, New Democratic Party, Canada, Green Party of Canada",
+        "entityNames": [
+          "New Brunswick",
+          "New Democratic Party",
+          "Canada",
+          "Green Party of Canada"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.tvanouvelles.ca/2019/09/03/walmart-va-cesser-de-vendre-certaines-munitions-pour-fusils-dassaut",
+          "source": "TVA Nouvelles",
+          "imgUrl": "//t3.gstatic.com/images?q=tbn:ANd9GcQFVobQq1IkGaeaZgRtkqmmpW5xL_fCS1KoKfqJHCGT-vSrCxtGzQ2F4IpAkNJh9WxE9TIQe0LuMzs"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_ox2XNAEwAAA1mM_fr&category=all&geo=CA#CA_lnk_ox2XNAEwAAA1mM_fr",
+        "articles": [
+          {
+            "articleTitle": "Walmart va cesser de vendre certaines munitions pour fusils d&#39;assaut",
+            "url": "https://www.tvanouvelles.ca/2019/09/03/walmart-va-cesser-de-vendre-certaines-munitions-pour-fusils-dassaut",
+            "source": "TVA Nouvelles",
+            "time": "3 hours ago",
+            "snippet": "Sous pression après une fusillade meurtrière dans une de ses enseignes au Texas le mois dernier et face à la multiplication des tueries de masse aux États-Unis, le géant de la distribution Walmart a annoncé mardi mettre fin à la vente des munitions&nbsp;..."
+          },
+          {
+            "articleTitle": "États-Unis: Walmart cessera la vente de certaines munitions",
+            "url": "https://www.ledevoir.com/monde/etats-unis/561830/walmart-cessera-la-vente-de-certaines-munitions-aux-etats-unis",
+            "source": "Le Devoir",
+            "time": "3 hours ago",
+            "snippet": "Dans la foulée de la fusillade qui a causé la mort de 22 personnes dans une succursale d&#39;El Paso le mois dernier, Walmart a annoncé mardi que ses magasins cesseront de vendre certains types de munitions. Ces munitions sont couramment utilisées par les&nbsp;..."
+          },
+          {
+            "articleTitle": "Fusillades aux Etats-Unis: Walmart limite la vente de munitions dans ses enseignes",
+            "url": "https://www.20minutes.fr/monde/2595939-20190903-fusillades-etats-unis-walmart-limite-vente-munitions-enseignes",
+            "source": "20minutes.fr",
+            "time": "52 minutes ago",
+            "snippet": "Un mois après la fusillade d&#39;El Paso, le géant de la distribution va arrêter de vendre des munitions pour les armes de poing et semi-automatiques."
+          },
+          {
+            "articleTitle": "Etats-Unis: le distributeur Walmart va cesser la vente de certaines munitions",
+            "url": "https://www.bfmtv.com/economie/etats-unis-le-distributeur-walmart-va-cesser-la-vente-de-certaines-munitions-1760467.html",
+            "source": "BFMTV.COM",
+            "time": "3 hours ago",
+            "snippet": "Cette décision de la chaîne de supermarchés intervient un mois après une fusillade dans l&#39;un de ses magasins qui a fait 22 morts."
+          },
+          {
+            "articleTitle": "Walmart arrête de vendre des munitions pour certaines armes à feu",
+            "url": "https://investir.lesechos.fr/actions/actualites/walmart-arrete-de-vendre-des-munitions-pour-certaines-armes-a-feu-1870166.php",
+            "source": "Investir",
+            "time": "1 hour ago",
+            "snippet": "3 septembre (Reuters) - Walmart a annoncé mardi qu&#39;il allait arrêter de vendre des munitions pour armes de poing et pour certains fusils d&#39;assaut, le distributeur américain prenant ces mesures dans la foulée de récentes fusillades mortelles au Texas et dans&nbsp;..."
+          },
+          {
+            "articleTitle": "Walmart va cesser de vendre certaines munitions dans ses supermarchés",
+            "url": "https://www.rts.ch/info/monde/10683442-walmart-va-cesser-de-vendre-certaines-munitions-dans-ses-supermarches.html?rts_source=rss_t",
+            "source": "RTS.ch",
+            "time": "7 minutes ago",
+            "snippet": "Face à la multiplication des tueries de masse aux Etats-Unis, le géant de la distribution Walmart a annoncé mardi mettre fin à la vente des munitions alimentant les armes semi-automatiques."
+          },
+          {
+            "articleTitle": "États-Unis: Walmart arrête de vendre des munitions pour certaines armes à feu",
+            "url": "http://www.rfi.fr/ameriques/20190903-etats-unis-walmart-arrete-vendre-munitions-certaines-armes-feu",
+            "source": "RFI",
+            "time": "8 minutes ago",
+            "snippet": "Walmart, le géant des supermarchés américains, prend position dans le débat sur les armes à feu aux États-Unis. Le patron de l&#39;enseigne demande au président américain et au Congrès d&#39;agir pour renforcer la législation sur les ventes d&#39;armes. Il a par&nbsp;..."
+          },
+          {
+            "articleTitle": "États-Unis: Walmart va cesser de vendre certaines munitions, y compris pour armes de poing",
+            "url": "https://www.journaldemontreal.com/2019/09/03/etats-unis-walmart-va-cesser-de-vendre-certaines-munitions-y-compris-pour-armes-de-poing",
+            "source": "Le Journal de Montréal",
+            "time": "3 hours ago",
+            "snippet": "NEW YORK | Walmart a plaidé pour rendre les ventes d&#39;armes à feu plus restrictives et joint le geste à la parole mardi en mettant fin à la vente des munitions alimentant les armes semi-automatiques généralement utilisées dans les tueries de masse aux&nbsp;..."
+          },
+          {
+            "articleTitle": "Etats-Unis : Walmart supprime des munitions de ses étals",
+            "url": "https://www.lemonde.fr/international/article/2019/09/03/etats-unis-walmart-supprime-des-munitions-de-ses-etals_5506025_3210.html",
+            "source": "Le Monde",
+            "time": "1 hour ago",
+            "snippet": "Prise à partie après la fusillade dans un de ses établissements à El Paso, la marque a décidé de cesser la vente de certaines munitions, y compris pour des armes de poing."
+          },
+          {
+            "articleTitle": "USA: Walmart va cesser de vendre certaines munitions, y compris pour armes de poing",
+            "url": "https://www.liberation.fr/direct/element/usa-walmart-va-cesser-de-vendre-certaines-munitions-y-compris-pour-armes-de-poing_102080/",
+            "source": "Libération",
+            "time": "2 hours ago",
+            "snippet": "Le géant des supermarchés Walmart va cesser la vente de certaines munitions destinées aux fusils d&#39;assaut utilisés pour les tueries de masse, qualifiant «d&#39;inacceptable» le statu quo sur le contrôle des armes à feu aux Etats-Unis. Cette décision intervient un&nbsp;..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/120scy7d /m/0841v"
+        ],
+        "id": "CA_lnk_ox2XNAEwAAA1mM_fr",
+        "title": "Walmart, Handgun",
+        "entityNames": [
+          "Walmart",
+          "Handgun"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.legit.ng/1257603-omoni-oboli-praises-abike-dabiri-narrates-familys-surprise-renewing-passport-canada.html",
+          "source": "Legit.ng",
+          "imgUrl": "//t0.gstatic.com/images?q=tbn:ANd9GcSpFvXVdkdnqNGR1SjveXlohc9tJJpiwun_fgVSEMY-hRo7sSpfHAD2fnl3ua9isvv6PYFNooOupxo"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_4rRN4wAwAACv5M_en&category=all&geo=CA#CA_lnk_4rRN4wAwAACv5M_en",
+        "articles": [
+          {
+            "articleTitle": "Omoni Oboli praises Abike Dabiri, narrates family&#39;s surprise at renewing passport in Canada",
+            "url": "https://www.legit.ng/1257603-omoni-oboli-praises-abike-dabiri-narrates-familys-surprise-renewing-passport-canada.html",
+            "source": "Legit.ng",
+            "time": "12 hours ago",
+            "snippet": "Legit.ng News ☆ Popular Nollywood actress, Omoni Oboli, has narrated how she was able to renew her family&#39;s passports without having to go through the stress of booking an appointment in Canada."
+          },
+          {
+            "articleTitle": "Xenophobia: AU intervention may be crucial —Dabiri-Erewa",
+            "url": "https://punchng.com/xenophobia-au-intervention-may-be-crucial-dabiri-erewa/",
+            "source": "The Punch",
+            "time": "1 day ago",
+            "snippet": "The Chairman/Chief Executive Officer of the Nigerian Diaspora Commission, Abike Dabiri-Erewa, on Monday, said that there may be a need for African Union&#39;s intervention to stop the attacks on foreigners in South Africa. She said this while reacting to the&nbsp;..."
+          },
+          {
+            "articleTitle": "Again, Three Die as South Africans Attack Foreigners",
+            "url": "https://www.thisdaylive.com/index.php/2019/09/03/again-three-die-as-south-africans-attack-foreigners/",
+            "source": "THISDAY Newspapers",
+            "time": "17 hours ago",
+            "snippet": "... * FG will take definite measures, says Onyeama Text Box:Dabiri-Erewa seeks AU&#39;s intervention. Adedayo Akinwale in Abuja. South Africans have reportedly killed three people in their latest attacks on foreigners whose property were also looted and burnt."
+          },
+          {
+            "articleTitle": "Xenophobia: AU Intervention May Be Crucial - Abike Dabiri",
+            "url": "https://www.informationng.com/2019/09/xenophobia-au-intervention-may-be-crucial-abike-dabiri.html",
+            "source": "Information Nigeria",
+            "time": "23 hours ago",
+            "snippet": "Following several heartbreaking reports on the ongoing xenophobic attacks on Nigerians and other Africans in South Africa, Abike Dabiri – Erewa says its time for the African Union to intervene. Dabiri-Erewa, the Chairman of Nigerians in Diaspora&nbsp;..."
+          },
+          {
+            "articleTitle": "We only have database of Nigerians living in South Africa legally – Dabiri-Erewa",
+            "url": "https://theeagleonline.com.ng/we-only-have-database-of-nigerians-living-in-south-africa-legally-dabiri-erewa/",
+            "source": "The Eagle Online",
+            "time": "11 hours ago",
+            "snippet": "The Chairman of the Nigerians in Diaspora Commission, Hon. Abike Dabiri-Erewa, has said that the Federal Government has only the list of all Nigerians living in South Africa legally. Dabiri-Erewa said this on her Twitter handle following the position of the&nbsp;..."
+          }
+        ],
+        "idsForDedup": [
+          "/m/0464wkv /m/05cgv",
+          "/m/0464wkv /m/08755",
+          "/m/0464wkv /m/09gnt_l",
+          "/m/05cgv /m/08755",
+          "/m/05cgv /m/09gnt_l",
+          "/m/08755 /m/09gnt_l"
+        ],
+        "id": "CA_lnk_4rRN4wAwAACv5M_en",
+        "title": "Nigeria, Abike Dabiri, Xenophobia in South Africa, Xenophobia",
+        "entityNames": [
+          "Nigeria",
+          "Abike Dabiri",
+          "Xenophobia in South Africa",
+          "Xenophobia"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.thesportster.com/news/bayley-sasha-banks-embrace-after-raw/",
+          "source": "TheSportster",
+          "imgUrl": "//t2.gstatic.com/images?q=tbn:ANd9GcRBn4t_vLTD1UZJP7BJlgTZLsGYkrJMuFc9f9fAgKqoTUTUZPhdUGdZd3TjcvVjVzO0GiVJGGgj55oo"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_V1tR4wAwAAAGCM_en&category=all&geo=CA#CA_lnk_V1tR4wAwAAAGCM_en",
+        "articles": [
+          {
+            "articleTitle": "What Happened After Raw Went Off The Air [Video]",
+            "url": "https://www.thesportster.com/news/bayley-sasha-banks-embrace-after-raw/",
+            "source": "TheSportster",
+            "time": "4 hours ago",
+            "snippet": "The ending for this week&#39;s episode of Monday Night Raw left the WWE Universe in shock, as Sasha Banks successfully recruited Bayley to join the evil side. Bayley, the long-time fan favorite and babyface, teamed up with Becky Lynch - going up against Alexa&nbsp;..."
+          },
+          {
+            "articleTitle": "WWE Raw Women&#39;s champion Becky Lynch lands a stunner on Stone Cold Steve Austin - Watch",
+            "url": "https://www.hindustantimes.com/other-sports/wwe-legend-stone-cold-steve-austin-gets-a-stunner-from-women-s-champion-becky-lynch-watch-video/story-susBNPgVv36okW0WovsNBK.html",
+            "source": "Hindustan Times",
+            "time": "6 hours ago",
+            "snippet": "There was always a fun segment involving Stone Cold Steve Austin in the WWE. This is what Stone Cold would do: he would enter the ring, enjoy a moment or two with another wrestler, call for a few rounds of beer and then drop the wrestler with a “stunner”&nbsp;..."
+          },
+          {
+            "articleTitle": "Stone Cold Steve Austin has said some incredible things about Becky Lynch",
+            "url": "https://www.joe.ie/movies-tv/stone-cold-steve-austin-said-incredible-things-becky-lynch-680188",
+            "source": "JOE",
+            "time": "1 hour ago",
+            "snippet": "Even if you stopped watching wrestling after the golden period of the Attitude Era, you&#39;ll know that right now, Ireland&#39;s Becky Lynch is the hottest property in professional wrestling. Since adopting the persona of &#39;The Man,&#39; it&#39;s arguable that no other&nbsp;..."
+          },
+          {
+            "articleTitle": "WWE news: Becky Lynch hits Stone Cold Steve Austin with the best Stunner in years",
+            "url": "https://talksport.com/sport/wrestling/596514/wwe-becky-lynch-stone-cold-steve-austin-stunner/",
+            "source": "talkSPORT.com",
+            "time": "7 hours ago",
+            "snippet": "There is no doubt Becky Lynch has become a true modern-day superstar over the past 12 months or so. She was one of three women who become the first female to ever headline a WrestleMania when she was the main event earlier this year and she has&nbsp;..."
+          },
+          {
+            "articleTitle": "10 Brand New WWE Feuds For Heel Bayley",
+            "url": "http://whatculture.com/wwe/10-brand-new-wwe-feuds-for-heel-bayley",
+            "source": "WhatCulture",
+            "time": "4 hours ago",
+            "snippet": "Grinning at Sasha Banks to reveal the content of their private discussions before taking them public with a chair-assisted assault on Becky Lynch, Bayley&#39;s deep breath following a barrage of chair shots to &#39;The Man&#39; must have felt like the freshest in some time."
+          },
+          {
+            "articleTitle": "WWE fans celebrated after Bayley turned heel and destroyed Becky Lynch with a chair",
+            "url": "https://ftw.usatoday.com/2019/09/wwe-raw-bayley-turns-heel-video-reactions",
+            "source": "For The Win",
+            "time": "7 hours ago",
+            "snippet": "Bayley has been one of WWE&#39;s most wholesome, family-friendly characters since her arrival in NXT six years ago, but the SmackDown women&#39;s champion may be turning over a new leaf. Bayley teamed up with Raw Women&#39;s Champion Becky Lynch in a tag&nbsp;..."
+          },
+          {
+            "articleTitle": "Watch amazing moment Becky Lynch gives Stone Cold Steve Austin a Stunner on WWE legend&#39;s talk show",
+            "url": "https://www.thesun.co.uk/sport/9853192/watch-becky-lynch-stone-cold-steve-austin-stunner-wwe-talk-show/",
+            "source": "The Sun",
+            "time": "8 hours ago",
+            "snippet": "STONE COLD Steve Austin built a career out of drinking beer and hitting unsuspecting foes with a Stunner... but now he&#39;s been given a taste of his own medicine! The Texas Rattlesnake was in the midst of sharing a cold one with Becky Lynch when the Man&nbsp;..."
+          },
+          {
+            "articleTitle": "Watch Becky Lynch Hit The Stone Cold Stunner On Stone Cold Steve Austin",
+            "url": "https://uproxx.com/prowrestling/becky-lynch-stunner-stone-cold-steve-austin-video-gif/",
+            "source": "UPROXX",
+            "time": "5 hours ago",
+            "snippet": "Monday Night Raw ended badly for Becky Lynch with the Boss &#39;n&#39; Hug Connection going full rudo and beating her down with steel chairs. The good news is that the followup to Raw, Straight Up Steve Austin, ended much better for her. In case you missed it,&nbsp;..."
+          },
+          {
+            "articleTitle": "RAW Women&#39;s Title Match Made Official For WWE Clash Of Champions",
+            "url": "https://www.mandatory.com/wrestlezone/news/1131689-wwe-clash-of-champions-raw-womens-championship",
+            "source": "Mandatory",
+            "time": "7 hours ago",
+            "snippet": "WWE announced this morning that Becky Lynch will be facing Sasha Banks for the RAW Women&#39;s Championship at WWE Clash of Champions. This is coming off the heels of a Bayley heel turn in which Becky Lynch suffered the wrath of as the two former&nbsp;..."
+          },
+          {
+            "articleTitle": "WWE Raw Results: Bayley Turns Heel, Bray Wyatt Issues Major Challenge Ahead of Clash of Champions",
+            "url": "https://www.news18.com/news/sports/wwe-raw-results-bayley-turns-heel-bray-wyatt-issues-major-challenge-ahead-of-clash-of-champions-2295591.html",
+            "source": "News18",
+            "time": "10 hours ago",
+            "snippet": "WWE Monday Night Raw saw some surprising buildups before the upcoming Clash of Champions pay per view on September 15. While Bayley turned heel much to the surprise of the WWE Universe, The OC made a violent statement by ripping off the&nbsp;..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/11bc5zkx39 /m/01zx8c",
+          "/g/11bc5zkx39 /m/02pv4l",
+          "/g/11bc5zkx39 /m/0dcggz",
+          "/g/11bc5zkx39 /m/0j9mxhl",
+          "/g/11bc5zkx39 /m/0wxszml",
+          "/m/01zx8c /m/02pv4l",
+          "/m/01zx8c /m/0dcggz",
+          "/m/01zx8c /m/0j9mxhl",
+          "/m/01zx8c /m/0wxszml",
+          "/m/02pv4l /m/0dcggz",
+          "/m/02pv4l /m/0j9mxhl",
+          "/m/02pv4l /m/0wxszml",
+          "/m/0dcggz /m/0j9mxhl",
+          "/m/0dcggz /m/0wxszml",
+          "/m/0j9mxhl /m/0wxszml"
+        ],
+        "id": "CA_lnk_V1tR4wAwAAAGCM_en",
+        "title": "Becky Lynch, Bayley, Sasha Banks, Heel, WWE Raw Women's Championship, Steven Anderson",
+        "entityNames": [
+          "Becky Lynch",
+          "Bayley",
+          "Sasha Banks",
+          "Heel",
+          "WWE Raw Women's Championship",
+          "Steven Anderson"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.chroniclelive.co.uk/sport/basketball/fabulous-flournoy-leaves-newcastle-eagles-16861101",
+          "source": "ChronicleLive",
+          "imgUrl": "//t3.gstatic.com/images?q=tbn:ANd9GcR0lGoXVX2q30W3nl_8s8lzHGZzcVQ_ARCmaZBFvE5jVyWeZw3I3Peiu3buKgO3BRzb6yTBVbrTK2U"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_g0RZ4wAwAADaFM_en&category=all&geo=CA#CA_lnk_g0RZ4wAwAADaFM_en",
+        "articles": [
+          {
+            "articleTitle": "Fabulous Flournoy leaves Newcastle Eagles after 17 years in charge to join NBA Champions",
+            "url": "https://www.chroniclelive.co.uk/sport/basketball/fabulous-flournoy-leaves-newcastle-eagles-16861101",
+            "source": "ChronicleLive",
+            "time": "3 hours ago",
+            "snippet": "Newcastle Eagles looking for new head coach for first time since 2002 as Fabulous Flournoy leaves for Toronto Raptors."
+          },
+          {
+            "articleTitle": "Fab Flournoy says goodbye to Newcastle Eagles as he takes up coaching NBA squad Toronto Raptors",
+            "url": "https://www.itv.com/news/tyne-tees/2019-09-03/fab-flournoy-says-goodbye-to-newcastle-eagles-as-he-takes-up-coaching-nba-squad-toronto-raptors/",
+            "source": "ITV News",
+            "time": "3 hours ago",
+            "snippet": "A tearful goodbye to Tyneside, for a top job in Toronto. The Newcastle Eagles have confirmed that Fabulous Flournoy, their hugely successful player/coach, has left the club after 18 trophy-filled years. Fab has left the country, to take a new job with the Toronto&nbsp;..."
+          },
+          {
+            "articleTitle": "Who is Fabulous Flournoy? Fast facts on the Toronto Raptors&#39; newest assistant coach",
+            "url": "https://ca.nba.com/news/toronto-raptors-who-is-fabulous-fab-flournoy-fast-facts-assistant-coach-hire-nurse-bbl-british-basketball-league/1p3fqb5s1hrni1sbhsu2mvq929",
+            "source": "NBA CA",
+            "time": "1 hour ago",
+            "snippet": "As the Toronto Raptors gear up for the upcoming season, head coach Nick Nurse has made an addition to his coaching staff. The Newcastle Eagles of the British Basketball League shared the announcement that longtime player/coach Fabulous &#39;Fab&#39;&nbsp;..."
+          },
+          {
+            "articleTitle": "Raptors add rising star Fab Flournoy to Nick Nurse&#39;s coaching staff",
+            "url": "https://ca.style.yahoo.com/raptors-add-star-rising-star-fab-flournoy-to-nick-nurses-coaching-staff-203107983.html",
+            "source": "Yahoo Style",
+            "time": "17 minutes ago",
+            "snippet": "The Toronto Raptors have added Newcastle coach Fab Flournoy to Nick Nurse&#39;s staff, according to multiple reports. Flournoy, 46, is a rising star in the European coaching ranks. The New York native played for Nurse for two years with the Birmingham Bullets,&nbsp;..."
+          }
+        ],
+        "idsForDedup": [
+          "/m/02715kv /m/02plgx",
+          "/m/02715kv /m/060h2n",
+          "/m/02715kv /m/09x648",
+          "/m/02715kv /m/0j7ng",
+          "/m/02715kv /m/0jmcb",
+          "/m/02plgx /m/060h2n",
+          "/m/02plgx /m/09x648",
+          "/m/02plgx /m/0j7ng",
+          "/m/02plgx /m/0jmcb",
+          "/m/060h2n /m/09x648",
+          "/m/060h2n /m/0j7ng",
+          "/m/060h2n /m/0jmcb",
+          "/m/09x648 /m/0j7ng",
+          "/m/09x648 /m/0jmcb",
+          "/m/0j7ng /m/0jmcb"
+        ],
+        "id": "CA_lnk_g0RZ4wAwAADaFM_en",
+        "title": "Fabulous Flournoy, Toronto Raptors, Nick Nurse, Newcastle Eagles, British Basketball League, Newcastle upon Tyne",
+        "entityNames": [
+          "Fabulous Flournoy",
+          "Toronto Raptors",
+          "Nick Nurse",
+          "Newcastle Eagles",
+          "British Basketball League",
+          "Newcastle upon Tyne"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://sports.yahoo.com/just-playing-us-open-players-could-skip-warmup-151325960--ten.html",
+          "source": "Yahoo Sports",
+          "imgUrl": "//t3.gstatic.com/images?q=tbn:ANd9GcSG8skLO2HTvP9p4g-_eLTypWNfxWH7k6geicWZKOAgHuBw4Sunto2PLzfsUAPeewvd_trUGgQMXH8"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_qZZN4wAwAADkxM_en&category=all&geo=CA#CA_lnk_qZZN4wAwAADkxM_en",
+        "articles": [
+          {
+            "articleTitle": "&#39;How about just playing?&#39;: US Open players could skip warmup",
+            "url": "https://sports.yahoo.com/just-playing-us-open-players-could-skip-warmup-151325960--ten.html",
+            "source": "Yahoo Sports",
+            "time": "5 hours ago",
+            "snippet": "NEW YORK (AP) -- Given how well Roger Federer had been playing at the U.S. Open, and given that he went into his quarterfinal with an unbeaten record against the guy he was facing, it&#39;s not as if he needed any extra edge. Still, if Federer did want to&nbsp;..."
+          },
+          {
+            "articleTitle": "Roger Federer warned of Grigor Dimitrov US Open danger which involves Novak Djokovic",
+            "url": "https://www.express.co.uk/sport/tennis/1173405/Roger-Federer-Grigor-Dimitrov-US-Open-Novak-Djokovic-Paul-Annacone",
+            "source": "Express.co.uk",
+            "time": "6 hours ago",
+            "snippet": "Roger Federer has been warned of the danger of facing Grigor Dimitrov in the US Open quarter-finals tonight by his former coach Paul Annacone. Dimitrov has fallen down the world rankings over recent years but he looks to be on his way back with a strong&nbsp;..."
+          },
+          {
+            "articleTitle": "Federer vs Dimitrov live stream FREE: How to watch US Open quarter-final from Flushing Meadows without paying",
+            "url": "https://www.thesun.co.uk/sport/tennis/9855876/federer-vs-dimitrov-live-stream-free-us-open-quarter-final/",
+            "source": "The Sun",
+            "time": "4 hours ago",
+            "snippet": "IT&#39;S eleven years since Roger Federer last tasted success at Flushing Meadows. The Fed Express is into the quarter-finals of this year&#39;s tournament and faces unseeded Bulgarian Grigor Dimitrov for a place in the final four. Federer gave Brit Evans a 6-2 6-2&nbsp;..."
+          },
+          {
+            "articleTitle": "David Goffin was too passive against Roger Federer, says Corretja",
+            "url": "https://www.tennisworldusa.org/tennis/news/Roger_Federer/76333/david-goffin-was-too-passive-against-roger-federer-says-corretja/",
+            "source": "Tennis World",
+            "time": "6 hours ago",
+            "snippet": "In an interview to Eurosport the former world No. 2 Alex Corretja praised Roger Federer&#39;s win over David Goffin at the US Open. The Spaniard said: &quot;I saw Federer being very relaxed and calm. It&#39;s true that Goffin is a player Roger feels comfortable with but&nbsp;..."
+          },
+          {
+            "articleTitle": "US Open Tennis 2019: Tuesday Night Draw TV Schedule, Start Times and Picks",
+            "url": "https://bleacherreport.com/articles/2852188-us-open-tennis-2019-tuesday-night-draw-tv-schedule-start-times-and-picks",
+            "source": "Bleacher Report",
+            "time": "34 minutes ago",
+            "snippet": "Roger Federer will make his return to the U.S. Open quarter-finals on Tuesday and faces Grigor Dimitrov, the only unseeded player still remaining in the 2019 men&#39;s singles. Five-time winner Federer has reached the last eight of this competition 12 times and&nbsp;..."
+          },
+          {
+            "articleTitle": "Roger Federer Gives Major Update on Retirement Plans That Will Excite All Tennis Fans",
+            "url": "https://www.news18.com/news/sports/roger-federer-gives-major-update-on-retirement-plans-that-will-excite-all-tennis-fans-2295025.html",
+            "source": "News18",
+            "time": "14 hours ago",
+            "snippet": "There is good news for fans of Roger Federer. The 38-year-old Swiss star has given fans a positive update regarding his plans to retire. Turns out, he has no such plans, at least in the near future. Crediting family bliss for his extraordinary form, Federer&nbsp;..."
+          },
+          {
+            "articleTitle": "Grigor Dimitrov ready for Roger Federer challenge at US Open",
+            "url": "https://www.tennisworldusa.org/tennis/news/Roger_Federer/76329/grigor-dimitrov-ready-for-roger-federer-challenge-at-us-open-/",
+            "source": "Tennis World",
+            "time": "10 hours ago",
+            "snippet": "Bulgarian tennis star Grigor Dimitrov didn&#39;t hide his emotions after reaching his maiden quarterfinal at the US Open. Dimitrov, who has fallen to No. 78 in the world, handed a straight-set defeat to rising Australian star Alex de Minaur 7-5 6-3 6-4 to reach his first&nbsp;..."
+          },
+          {
+            "articleTitle": "US Open 2019 betting tips: Previews and best bets for day nine at Flushing Meadows",
+            "url": "https://www.sportinglife.com/tennis/news/tuesdays-us-open-betting-tips/170974",
+            "source": "Sportinglife.com",
+            "time": "14 hours ago",
+            "snippet": "Scott Ferguson takes a look at day nine of the 2019 US Open, with two bets recommended at prices of 4/5 and 7/2. Recommended bets. 1pt Wang to win at 7/2 &middot; 1pt Medvedev +1.5 games at 4/5. For details of advised bookmakers and each-way terms, visit our&nbsp;..."
+          },
+          {
+            "articleTitle": "Roger Federer Can Be Oldest Male Slam Semifinalist Since Connors",
+            "url": "https://wfan.radio.com/articles/ap-news/federer-can-be-oldest-male-slam-semifinalist-connors",
+            "source": "WFAN",
+            "time": "3 hours ago",
+            "snippet": "Roger Federer resumes his bid for his first U.S. Open title in 11 years with a quarterfinal under the lights at night against unseeded Grigor Dimitrov. Click to read."
+          },
+          {
+            "articleTitle": "Hampered by Knee, &#39;18 Champ Osaka Loses to Bencic at US Open",
+            "url": "https://www.usnews.com/news/sports/articles/2019-09-02/nadal-cilic-meet-with-us-open-quarterfinal-spot-at-stake",
+            "source": "U.S. News & World Report",
+            "time": "1 day ago",
+            "snippet": "NEW YORK (AP) — Naomi Osaka&#39;s achy left knee didn&#39;t let her serve without pain, so she didn&#39;t practice that key part of her game leading into the U.S. Open. The knee also prevented her from covering the court and preparing for shots the way she&#39;d like."
+          }
+        ],
+        "idsForDedup": [
+          "/g/11bwgvh4_h /m/01my95",
+          "/g/11bwgvh4_h /m/03d7zmb",
+          "/g/11bwgvh4_h /m/0dgq54z",
+          "/g/11bwgvh4_h /m/0l6c9",
+          "/m/01my95 /m/03d7zmb",
+          "/m/01my95 /m/0dgq54z",
+          "/m/01my95 /m/0l6c9",
+          "/m/03d7zmb /m/0dgq54z",
+          "/m/03d7zmb /m/0l6c9",
+          "/m/0dgq54z /m/0l6c9"
+        ],
+        "id": "CA_lnk_qZZN4wAwAADkxM_en",
+        "title": "Roger Federer, US Open, David Goffin, Daniil Medvedev, Grigor Dimitrov",
+        "entityNames": [
+          "Roger Federer",
+          "US Open",
+          "David Goffin",
+          "Daniil Medvedev",
+          "Grigor Dimitrov"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.denofgeek.com/uk/movies/the-batman/67297/robert-pattinson-reveals-how-he-became-new-batman",
+          "source": "Den of Geek UK",
+          "imgUrl": "//t0.gstatic.com/images?q=tbn:ANd9GcRwutZiE9ZZrWfJrHq_bdoaaZqD5YQi2BeNTZmV7-XFhZcEiIJQhKICLgBChZCov4L51kfV74uya74"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=CA_lnk_ZRBW4wAwAAAzQM_en&category=all&geo=CA#CA_lnk_ZRBW4wAwAAAzQM_en",
+        "articles": [
+          {
+            "articleTitle": "Robert Pattinson reveals how he became the new Batman",
+            "url": "https://www.denofgeek.com/uk/movies/the-batman/67297/robert-pattinson-reveals-how-he-became-new-batman",
+            "source": "Den of Geek UK",
+            "time": "1 hour ago",
+            "snippet": "Robert Pattinson will succeed the outgoing Ben Affleck as the latest link in a prestigious chain of actors to put on the cape and cowl, set to star in 2021&#39;s The Batman. While the casting of the English actor was met with the expected amount of social media&nbsp;..."
+          },
+          {
+            "articleTitle": "&#39;I WAS F------ FURIOUS&#39;: Robert Pattinson feared Batman leak would cost him reboot role",
+            "url": "https://canoe.com/entertainment/movies/i-was-f-furious-robert-pattinson-feared-batman-leak-would-cost-him-reboot-role",
+            "source": "CANOE",
+            "time": "6 hours ago",
+            "snippet": "Robert Pattinson feared news of his casting as Batman in the upcoming DC Comics movie would cost him the part.Reports that the 33-year-old star had been cast in The Batman emerged while the actor was still in talks with Warner Bros. executives."
+          },
+          {
+            "articleTitle": "Robert Pattinson was &#39;absolutely relieved&#39; to get the call to play Batman",
+            "url": "https://www.usatoday.com/story/entertainment/movies/2019/09/03/robert-pattinson-batman-casting-after-twilight-fame-days/2199899001/",
+            "source": "USA TODAY",
+            "time": "2 hours ago",
+            "snippet": "In his first comments since signing on to play Batman, Robert Pattinson talks about trying on the Batsuit and seeking hints from Christopher Nolan."
+          },
+          {
+            "articleTitle": "Robert Pattinson Describes Suiting Up as Batman for the First Time",
+            "url": "https://www.ign.com/articles/2019/09/03/robert-pattinson-describes-suiting-up-as-batman-for-the-first-time",
+            "source": "IGN",
+            "time": "1 hour ago",
+            "snippet": "Robert Pattinson is getting candid about the Batsuit."
+          },
+          {
+            "articleTitle": "Robert Pattinson expected way more blowback from his Batman casting",
+            "url": "https://news.avclub.com/robert-pattinson-expected-way-more-blowback-to-his-batm-1837842673",
+            "source": "The A.V. Club",
+            "time": "2 hours ago",
+            "snippet": "Robert Pattinson opened up for the first time about his casting as the Caped Crusader in Matt Reeves&#39; upcoming The Batman, revealing that, ope, people found out about it way too soon. In fact, the conflicting reports saying that Nicholas Hoult was also up for&nbsp;..."
+          },
+          {
+            "articleTitle": "Robert Pattinson Isn&#39;t Fazed by His Batman Doubters: &#39;It&#39;s Much More Fun When You&#39;re an Underdog&#39;",
+            "url": "https://people.com/movies/robert-pattinson-not-fazed-by-batman-doubters/",
+            "source": "PEOPLE.com",
+            "time": "2 hours ago",
+            "snippet": "Robert Pattinson is ready to step into Batman&#39;s shoes — and his Batsuit. In a new interview with Variety — his first since being confirmed as the new caped crusader — Pattinson shared that he had grown up watching the Tim Burton Batman movies and once&nbsp;..."
+          },
+          {
+            "articleTitle": "Those Batman Rumors Pissed Off Robert Pattinson—Because He&#39;d Been Gunning for the Part for a While",
+            "url": "https://io9.gizmodo.com/those-batman-rumors-pissed-off-robert-pattinson-because-1837833895",
+            "source": "Gizmodo",
+            "time": "2 hours ago",
+            "snippet": "All the back and forth this summer over just who would actually be replacing Ben Affleck in the Batcowl was enough Hollywood drama to put our heads in a batarang-worthy spin. But for one of the subjects of that back and forth, Robert Pattinson, they were in&nbsp;..."
+          },
+          {
+            "articleTitle": "Robert Pattinson Was &#39;F**king Furious&#39; When Batman Casting Rumours Were Leaked",
+            "url": "http://www.ladbible.com/entertainment/film-and-tv-robert-pattinson-was-fking-furious-when-batman-rumours-were-leaked-20190903",
+            "source": "LADbible",
+            "time": "2 hours ago",
+            "snippet": "He&#39;s been formally appointed as the Dark Knight and the script is finished but Pattinson was not a happy bunny when the news was leaked."
+          },
+          {
+            "articleTitle": "Robert Pattinson Drops An F-Bomb Over Batman Gig Leak",
+            "url": "https://www.cinemablend.com/news/2479064/robert-pattinson-drops-an-f-bomb-over-batman-gig-leak",
+            "source": "Cinema Blend",
+            "time": "1 hour ago",
+            "snippet": "Reporting on movies, television, video games, and pop culture CINEMABLEND is the go-to source for today&#39;s plugged-in generation."
+          },
+          {
+            "articleTitle": "Robert Pattinson Has a Masturbation Streak Going in His Movies and He Knows It",
+            "url": "https://www.pulse.ng/lifestyle/mens-health/robert-pattinson-has-a-masturbation-streak-going-in-his-movies-and-he-knows-it/h3klvyf",
+            "source": "Pulse Nigeria",
+            "time": "3 hours ago",
+            "snippet": "Even though he might be best known for his role in the Twilight movies, Robert Pattinson has been on an impressive streak in the last decade, consistently picking exciting and challenging film projects, re-inventing himself as a versatile and unique character&nbsp;..."
+          }
+        ],
+        "idsForDedup": [
+          "/m/01d5g /m/02vpvcs",
+          "/m/01d5g /m/062dn7",
+          "/m/01d5g /m/09gjmvw",
+          "/m/02vpvcs /m/062dn7",
+          "/m/02vpvcs /m/09gjmvw",
+          "/m/062dn7 /m/09gjmvw"
+        ],
+        "id": "CA_lnk_ZRBW4wAwAAAzQM_en",
+        "title": "Robert Pattinson, Batman, Matt Reeves, The Twilight Saga",
+        "entityNames": [
+          "Robert Pattinson",
+          "Batman",
+          "Matt Reeves",
+          "The Twilight Saga"
+        ]
+      }
+    ]
+  },
+  "date": "Sep 3, 2019",
+  "hideAllImages": false
+}
