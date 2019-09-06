@@ -1,6 +1,7 @@
 const googleTrends = require('google-trends-api');
+const fs = require('fs');
 
-module.exports.getTrendDataResults = async (term1, term2) => {
+module.exports = async (term1, term2) => {
 
   const startDate = new Date();
   startDate.setMonth(startDate.getMonth() - 12);
@@ -15,13 +16,21 @@ module.exports.getTrendDataResults = async (term1, term2) => {
     throw `Error receiving trends data\n${error}`;
   }
 
-  const { timelineData } = JSON.parse(result).default;
-
-  const data = timelineData[timelineData.length - 1].formattedValue;
+  const data = formatData(result);
 
   return {
-    [term1] : data[0],
-    [term2] : data[1]
+    [term1]: data[0],
+    [term2]: data[1]
   };
 
 }
+
+function formatData(raw_data) {
+
+  fs.writeFileSync('./data.json', raw_data);
+
+  const { timelineData } = JSON.parse(raw_data).default;
+
+  return timelineData[timelineData.length - 1].value;
+}
+
