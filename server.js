@@ -1,15 +1,28 @@
 const express = require('express');
-const socketIO = require('socket.io');
 const https = require('https');
+const socketIO = require('socket.io');
+const bodyParser = require('body-parser');
+const mongoose = require('mongoose');
 
+const routes = require('./routes');
 
 const app = express();
+
+require('dotenv').config();
+
+app.use(require('cors')());
+
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+app.use(passport.initialize());
+
+
 const server = https.createServer(app);
 const io = socketIO(server);
 
 const nanoid = require('nanoid');
 
-const Game = require('./Game');;
+const Game = require('./Game');
 
 /*
 game_state_store = {
