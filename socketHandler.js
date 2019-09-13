@@ -27,7 +27,11 @@ module.exports = (io) => {
 
     })
 
-    socket.on()
+    socket.on(GAME_GET_SCORE, (data) => { })
+
+    socket.on(ROOM_LEAVE);
+
+    socket.on('disconnect', () => { })
 
 
   })
