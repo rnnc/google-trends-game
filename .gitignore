@@ -1,8 +1,9 @@
 /node_modules
+/client/node_modules
 
 *.log
 
-test.js
-test.json
+playground.js
 
-/client
+# production
+/build
