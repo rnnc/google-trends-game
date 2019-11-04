@@ -10,25 +10,38 @@ const app = express();
 
 require('dotenv').config();
 
+//dev use only
 app.use(require('cors')());
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(passport.initialize());
 
-
-const server = https.createServer(app);
-
 mongoose
   .connect(process.env.MONGO_URI, { useNewUrlParser: true })
-  .then((promise) => { console.log(`\n_Connected to DB (Mongo)_\n`) },
-    (error) => console.log(`\n[ Error connecting to database\n${error} ]\n`));
+  .then((instance) => {
+    console.log(`\n_Connected to DB (Mongo)_\n`);
+    if (
+      process.env.NODE_ENV === "PLAYGROUND" ||
+      process.env.NODE_ENV === "playground"
+    ) {
+
+      app.use(express.static('client/build'));
+      app.get('*', (req, res) => {
+        res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
+      });
+
+    }
+  })
+  .catch((error) =>
+    console.log(`\n[ Error connecting to database\n${error} ]\n`)
+  );
 
 const io = socketIO(server);
 io.origins('*:*');
 require('./socketHandler')(io);
 
-server.listen(process.env.PORT, (error) => {
+app.listen(process.env.PORT, (error) => {
   if (error) {
     console.log(`Error starting backend\n${error}`);
     return;
