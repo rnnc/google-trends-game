@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 
+import Login from './Components/Login/Login';
+import Button from './Components/Button';
+
 
 const Header = styled.div`
   display: flex;
@@ -14,7 +17,7 @@ const Header = styled.div`
 `;
 
 const Body = styled.div`
-  background-color: #282c34;
+  background-color: #192538;
   min-height: 100vh;
 `;
 
@@ -27,7 +30,7 @@ export default class App extends Component {
             Google Trends Game
         </Header>
 
-        
+        <Login/>
 
       </Body>
     );

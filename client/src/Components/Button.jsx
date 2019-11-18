@@ -4,9 +4,9 @@ export default styled.button`
 
   cursor: pointer;
   outline: none;
-  padding: 0.5em 0.75em;
+  padding: 6px ${({ width }) => (width ? width : 20)}px;
 
-  font: 1.1em 'Roboto', sans-serif;
+  font: 1em 'Roboto', sans-serif;
   font-weight: 600;
 
   background: transparent;
