@@ -4,12 +4,24 @@ import styled from 'styled-components';
 import Button from '../Button';
 
 const Container = styled.div`
+  position: absolute;
+  left: 20vw;
+  top: 30vh;
+
   display: inline-flex;
   color: white;
   padding: 1em;
   text-align: center;
-
+  z-index: 5001;
   /* border: 1px solid red; */
+  transition: all 0.2s;
+  transform: scale(0.25);
+  opacity: 0;
+
+  &.visible{
+    transform: scale(1);
+    opacity: 1;
+  }
 `;
 
 const FormWrapper = styled.div`
@@ -18,8 +30,8 @@ const FormWrapper = styled.div`
   padding: 10px;
   justify-content: space-evenly;
   
-  border: 2px solid white;
-  border-radius: 25px;
+  /* border: 2px solid white; */
+  border-radius: 5px;
 
   /* box-shadow: 1px 5px 10px 2px rgba(0,0,0,0.7); */
   background: #2D4654 ;
@@ -28,15 +40,17 @@ const FormWrapper = styled.div`
 
 const FieldWrapper = styled.span`
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   padding: 8px 10px;
   justify-content: space-between;
-  align-self: center;
-  /* border: 1px solid red; */
+  
+  &._button{
+   align-self:center;
+  }
 `;
 
 const Label = styled.label`
-  padding: 0px 10px 5px 10px;
+  padding: 5px 10px 5px 10px;
   color: white;
   font: 1em "Noto Sans", sans-serif;
   margin: auto;
@@ -52,16 +66,16 @@ const Input = styled.input.attrs(({ type, placeholder }) => ({ type, placeholder
     color: white;
   }
 
-  border-radius: 25px;
+  border-radius: 5px;
   outline: none;
   transition: all 0.2s;
-  border: 2.5px solid transparent;
+  border: 2px solid transparent;
   text-align: center;
   font: 0.9em "Noto Sans", sans-serif;
 
   &:focus{
-    border: 2.5px solid #0060fa;
-    box-shadow: 2px 2px 5px 1px rgba(0,0,0,1)
+    border: 2px solid #0060fa;
+    
   }
 `;
 
@@ -75,32 +89,35 @@ class Login extends Component {
   }
 
   render() {
+
+    const { visible } = this.props;
+
     return (
-      <Container>
 
-        <FormWrapper>
+      <React.Fragment>
 
-          <FieldWrapper>
-            <Label>Username</Label>
-            <Input
-              type="text" placeholder="Enter Username"
-            />
-          </FieldWrapper>
+        <Container hidden={ !visible } className={ visible ? "visible" : "" }>
 
-          <FieldWrapper>
-            <Label hidden={ this.state.passwordFocus }>Password</Label>
-            <Input
-              type="password" placeholder="Enter Password"
-            />
-          </FieldWrapper>
+          <FormWrapper>
 
-          <FieldWrapper>
-            <Button width={ 45 }> Login/Register </Button>
-          </FieldWrapper>
+            <FieldWrapper>
+              <Label>Username</Label>
+              <Input type="text" />
+            </FieldWrapper>
 
-        </FormWrapper>
+            <FieldWrapper>
+              <Label hidden={ this.state.passwordFocus }>Password</Label>
+              <Input type="password" />
+            </FieldWrapper>
 
-      </Container>
+            <FieldWrapper className="_button">
+              <Button width={ 45 }> Login/Register </Button>
+            </FieldWrapper>
+
+          </FormWrapper>
+
+        </Container>
+      </React.Fragment>
     );
   }
 }
