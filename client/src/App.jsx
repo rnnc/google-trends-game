@@ -5,6 +5,7 @@ import Login from './Components/Login/Login';
 import Button from './Components/Button';
 
 
+
 const Header = styled.div`
   display: flex;
   flex-direction: column;
@@ -47,7 +48,7 @@ export default class App extends Component {
   }
 
   state = {
-    login_visible: false
+    login_visible: true
   }
 
   toggleLogin(e) {
@@ -68,6 +69,8 @@ export default class App extends Component {
           Google Trends Game
         </Header>
 
+        <Button onClick={ this.toggleLogin }> Login </Button>
+
         <LoginBackdrop
           hidden={ !login_visible }
           className={ login_visible ? "visible" : "" }
@@ -75,8 +78,6 @@ export default class App extends Component {
         />
 
         <Login visible={ login_visible } />
-
-        <Button onClick={ this.toggleLogin }> Login </Button>
 
       </Body>
     );

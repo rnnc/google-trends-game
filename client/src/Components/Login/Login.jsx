@@ -9,14 +9,18 @@ const Container = styled.div`
   top: 30vh;
 
   display: inline-flex;
+  flex-direction: column;
   color: white;
   padding: 1em;
   text-align: center;
   z-index: 5001;
-  /* border: 1px solid red; */
   transition: all 0.2s;
   transform: scale(0.25);
   opacity: 0;
+
+  border-radius: 5px;
+  background: #2D4654 ;
+  box-shadow: 2px 2.5px 12px 1px rgba(0,0,0,0.75);
 
   &.visible{
     transform: scale(1);
@@ -24,18 +28,19 @@ const Container = styled.div`
   }
 `;
 
+const Header = styled.span`
+  font-size: 1.4em;
+  font-weight: 700;
+  font-style: italic;
+  padding-bottom: 5px;
+`;
+
 const FormWrapper = styled.div`
   display: flex;
   flex-direction: column;
-  padding: 10px;
+  
   justify-content: space-evenly;
   
-  /* border: 2px solid white; */
-  border-radius: 5px;
-
-  /* box-shadow: 1px 5px 10px 2px rgba(0,0,0,0.7); */
-  background: #2D4654 ;
-  box-shadow: 2px 2.5px 12px 1px rgba(0,0,0,0.75);
 `;
 
 const FieldWrapper = styled.span`
@@ -45,8 +50,13 @@ const FieldWrapper = styled.span`
   justify-content: space-between;
   
   &._button{
-   align-self:center;
+   padding-top: 15px;
   }
+
+  &._header{
+    align-self: center;
+  }
+
 `;
 
 const Label = styled.label`
@@ -59,7 +69,7 @@ const Label = styled.label`
 const Input = styled.input.attrs(({ type, placeholder }) => ({ type, placeholder }))`
   padding: 5px 10px;
 
-  background: #86949E;
+  background: #5b6871;
   color: white; 
 
   ::placeholder{
@@ -73,9 +83,13 @@ const Input = styled.input.attrs(({ type, placeholder }) => ({ type, placeholder
   text-align: center;
   font: 0.9em "Noto Sans", sans-serif;
 
+  &:hover{
+    background: #6f828f;
+  }
+
   &:focus{
     border: 2px solid #0060fa;
-    
+    background: #86949e;
   }
 `;
 
@@ -84,8 +98,19 @@ class Login extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      passwordFocus: false
+      passwordFocus: false,
+      username: "",
+      password: "",
+      usernameError: false,
+      passwordError: false,
+      errors: {}
     }
+
+    this.onChange = this.onChange.bind(this);
+  }
+
+  onChange(e) {
+    this.setState({ [e.target.name]: e.target.value });
   }
 
   render() {
@@ -94,30 +119,40 @@ class Login extends Component {
 
     return (
 
-      <React.Fragment>
+      <>
 
         <Container hidden={ !visible } className={ visible ? "visible" : "" }>
-
+          <FieldWrapper className="_header">
+            <Header>LOGIN FORM</Header>
+          </FieldWrapper>
           <FormWrapper>
 
             <FieldWrapper>
               <Label>Username</Label>
-              <Input type="text" />
+              <Input
+                name="username" type="text"
+                onChange={ this.onChange }
+              />
             </FieldWrapper>
 
             <FieldWrapper>
               <Label hidden={ this.state.passwordFocus }>Password</Label>
-              <Input type="password" />
+              <Input
+                name="password" type="password"
+                onChange={ this.onChange }
+              />
             </FieldWrapper>
 
             <FieldWrapper className="_button">
-              <Button width={ 45 }> Login/Register </Button>
+              <Button width={ 20 }> Login/Register </Button>
+              <Button> Anonymous </Button>
             </FieldWrapper>
 
           </FormWrapper>
 
         </Container>
-      </React.Fragment>
+
+      </>
     );
   }
 }

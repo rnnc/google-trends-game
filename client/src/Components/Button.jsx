@@ -13,11 +13,14 @@ export default styled.button`
   color: white;
   border-radius: 25px;
   border: 2px solid white;
-
   transition: all 0.12s;
+  
   &:hover{
     background: white;
     color: black;
     box-shadow: 0px 0px 5px 1px rgba(256,256,256,0.7);
+  }
+  &:focus{
+    box-shadow: 0px 0px 7px 1.5px rgba(256,256,256,0.7);
   }
 `;
